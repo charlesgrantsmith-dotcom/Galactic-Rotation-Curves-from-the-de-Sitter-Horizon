@@ -1,0 +1,1 @@
+# Galactic-Rotation-Curves-from-the-de-Sitter-Horizon
