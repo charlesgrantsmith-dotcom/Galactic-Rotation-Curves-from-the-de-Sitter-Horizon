@@ -1,5 +1,5 @@
 # Galactic Rotation Curves from the de Sitter Horizon Temperature
-
+10.5281/zenodo.18806314 
 The MOND acceleration constant a₀ ≈ 1.2 × 10⁻¹⁰ m/s² is numerically close to cH₀/(2π) — the acceleration associated with the Gibbons–Hawking temperature of the cosmological horizon. This repository tests that coincidence quantitatively against 171 galaxies from the SPARC database and 14 high-redshift galaxies from Genzel et al. (2017, 2020) and Übler et al. (2017).
 
 ## Key Result
