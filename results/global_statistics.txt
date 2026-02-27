@@ -1,0 +1,11 @@
+SPARC Holographic Rotation Curve Analysis
+H0 = 67.4 km/s/Mpc
+a_u = cH0/(2π) = 1.042115e-10 m/s²
+a0 (MOND)      = 1.200000e-10 m/s²
+Ratio a_u/a0   = 0.8684
+Galaxies fitted: 171
+
+Model               Med χ²/ν    Mean     <1     <2     <5  Med Υd
+Holographic             1.45    3.31  36.3%  62.0%  86.5%   0.449
+MOND_simple             1.53    3.76  32.2%  56.1%  85.4%   0.391
+MOND_standard           1.52    3.31  33.3%  62.0%  86.5%   0.549

@@ -1,0 +1,23 @@
+High-z Rotation Curve Analysis
+a_u(z) = cH(z)/(2pi)
+
+Galaxies analyzed: 14
+Redshift range: 0.85 - 2.45
+
+Key result: median r_turn / r_t(z) = 0.80
+(Prediction: ~1.0 if a_u(z) sets the transition radius)
+
+D3a-15504          z=2.383 r_t=7.9 r_turn=6.0 ratio=0.76
+zC-406690          z=2.196 r_t=6.4 r_turn=7.0 ratio=1.10
+zC-400569          z=2.242 r_t=9.5 r_turn=5.5 ratio=0.58
+D3a-6004           z=2.387 r_t=5.7 r_turn=8.0 ratio=1.39
+COS4-01351         z=0.854 r_t=8.0 r_turn=7.5 ratio=0.94
+GS4-43501          z=1.613 r_t=8.1 r_turn=6.5 ratio=0.81
+Q2343-BX610        z=2.211 r_t=7.6 r_turn=6.0 ratio=0.79
+K20-ID7            z=2.225 r_t=6.9 r_turn=5.0 ratio=0.73
+GMASS-2303         z=2.450 r_t=6.0 r_turn=6.5 ratio=1.08
+GMASS-2363         z=2.452 r_t=5.1 r_turn=5.5 ratio=1.08
+J0901              z=2.259 r_t=7.8 r_turn=6.0 ratio=0.77
+D3a-6397           z=2.237 r_t=6.5 r_turn=5.0 ratio=0.76
+ZC-782941          z=2.182 r_t=5.8 r_turn=7.0 ratio=1.21
+GS4-14011          z=1.615 r_t=9.2 r_turn=6.5 ratio=0.70
