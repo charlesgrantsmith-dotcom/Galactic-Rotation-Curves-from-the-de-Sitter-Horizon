@@ -1,7 +1,7 @@
 ---
 title: "Galactic Rotation Curves from the de Sitter Horizon Temperature"
 author:
-  - "[Author]"
+  - Charles Grant Smith Jr.
 date: "February 2026"
 ---
 
